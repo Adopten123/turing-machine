@@ -1,0 +1,3 @@
+C:/programming/turing-machine/build/CMakeFiles/turing-machine.dir
+C:/programming/turing-machine/build/CMakeFiles/ALL_BUILD.dir
+C:/programming/turing-machine/build/CMakeFiles/ZERO_CHECK.dir
