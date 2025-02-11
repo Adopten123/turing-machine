@@ -1,27 +1,33 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <ItemGroup>
-    <ClCompile Include="C:\programming\turing-machine\main.cpp">
+    <ClCompile Include="P:\C++\turing-machine\src\main.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="C:\programming\turing-machine\turing_machine.cpp">
+    <ClCompile Include="P:\C++\turing-machine\src\turing_machine.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="P:\C++\turing-machine\src\user_interface.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="C:\programming\turing-machine\turing_machine.h">
+    <ClInclude Include="P:\C++\turing-machine\src\turing_machine.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="P:\C++\turing-machine\src\user_interface.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
-    <CustomBuild Include="C:\programming\turing-machine\CMakeLists.txt" />
+    <CustomBuild Include="P:\C++\turing-machine\CMakeLists.txt" />
   </ItemGroup>
   <ItemGroup>
     <Filter Include="Header Files">
-      <UniqueIdentifier>{77300F95-AABD-3D88-B8C7-3835F4269885}</UniqueIdentifier>
+      <UniqueIdentifier>{A4A82738-B093-3B04-A5B6-1ABC04109147}</UniqueIdentifier>
     </Filter>
     <Filter Include="Source Files">
-      <UniqueIdentifier>{EF772448-029F-32EE-A394-1C9732BE0D6A}</UniqueIdentifier>
+      <UniqueIdentifier>{199D99B7-39D0-357B-9004-94FD2AAC7F42}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
 </Project>

@@ -38,9 +38,9 @@ endmacro()
 #################
 ###  BOOST
 #################
-set(CONAN_BOOST_ROOT "C:/.conan/a0be29/1")
-set(CONAN_INCLUDE_DIRS_BOOST "C:/.conan/a0be29/1/include")
-set(CONAN_LIB_DIRS_BOOST "C:/.conan/a0be29/1/lib")
+set(CONAN_BOOST_ROOT "C:/.conan/f84aa3/1")
+set(CONAN_INCLUDE_DIRS_BOOST "C:/.conan/f84aa3/1/include")
+set(CONAN_LIB_DIRS_BOOST "C:/.conan/f84aa3/1/lib")
 set(CONAN_BIN_DIRS_BOOST )
 set(CONAN_RES_DIRS_BOOST )
 set(CONAN_SRC_DIRS_BOOST )
@@ -82,13 +82,13 @@ set(CONAN_LIBS_BOOST ${CONAN_PKG_LIBS_BOOST} ${CONAN_SYSTEM_LIBS_BOOST} ${CONAN_
 #################
 ###  ZLIB
 #################
-set(CONAN_ZLIB_ROOT "C:/Users/adopten/.conan/data/zlib/1.3.1/_/_/package/164640aad040835ac89882393a96d89200694f04")
-set(CONAN_INCLUDE_DIRS_ZLIB "C:/Users/adopten/.conan/data/zlib/1.3.1/_/_/package/164640aad040835ac89882393a96d89200694f04/include")
-set(CONAN_LIB_DIRS_ZLIB "C:/Users/adopten/.conan/data/zlib/1.3.1/_/_/package/164640aad040835ac89882393a96d89200694f04/lib")
+set(CONAN_ZLIB_ROOT "C:/Users/sanha/.conan/data/zlib/1.3.1/_/_/package/5a61a86bb3e07ce4262c80e1510f9c05e9b6d48b")
+set(CONAN_INCLUDE_DIRS_ZLIB "C:/Users/sanha/.conan/data/zlib/1.3.1/_/_/package/5a61a86bb3e07ce4262c80e1510f9c05e9b6d48b/include")
+set(CONAN_LIB_DIRS_ZLIB "C:/Users/sanha/.conan/data/zlib/1.3.1/_/_/package/5a61a86bb3e07ce4262c80e1510f9c05e9b6d48b/lib")
 set(CONAN_BIN_DIRS_ZLIB )
 set(CONAN_RES_DIRS_ZLIB )
 set(CONAN_SRC_DIRS_ZLIB )
-set(CONAN_BUILD_DIRS_ZLIB "C:/Users/adopten/.conan/data/zlib/1.3.1/_/_/package/164640aad040835ac89882393a96d89200694f04/")
+set(CONAN_BUILD_DIRS_ZLIB "C:/Users/sanha/.conan/data/zlib/1.3.1/_/_/package/5a61a86bb3e07ce4262c80e1510f9c05e9b6d48b/")
 set(CONAN_FRAMEWORK_DIRS_ZLIB )
 set(CONAN_LIBS_ZLIB zlib)
 set(CONAN_PKG_LIBS_ZLIB zlib)
@@ -120,13 +120,13 @@ set(CONAN_LIBS_ZLIB ${CONAN_PKG_LIBS_ZLIB} ${CONAN_SYSTEM_LIBS_ZLIB} ${CONAN_FRA
 #################
 ###  BZIP2
 #################
-set(CONAN_BZIP2_ROOT "C:/Users/adopten/.conan/data/bzip2/1.0.8/_/_/package/d74f69022acf854c1ce6f27efa07ccbb6504e4b1")
-set(CONAN_INCLUDE_DIRS_BZIP2 "C:/Users/adopten/.conan/data/bzip2/1.0.8/_/_/package/d74f69022acf854c1ce6f27efa07ccbb6504e4b1/include")
-set(CONAN_LIB_DIRS_BZIP2 "C:/Users/adopten/.conan/data/bzip2/1.0.8/_/_/package/d74f69022acf854c1ce6f27efa07ccbb6504e4b1/lib")
-set(CONAN_BIN_DIRS_BZIP2 "C:/Users/adopten/.conan/data/bzip2/1.0.8/_/_/package/d74f69022acf854c1ce6f27efa07ccbb6504e4b1/bin")
+set(CONAN_BZIP2_ROOT "C:/Users/sanha/.conan/data/bzip2/1.0.8/_/_/package/53b5fd22ba061620078deefdae9a437c5f693201")
+set(CONAN_INCLUDE_DIRS_BZIP2 "C:/Users/sanha/.conan/data/bzip2/1.0.8/_/_/package/53b5fd22ba061620078deefdae9a437c5f693201/include")
+set(CONAN_LIB_DIRS_BZIP2 "C:/Users/sanha/.conan/data/bzip2/1.0.8/_/_/package/53b5fd22ba061620078deefdae9a437c5f693201/lib")
+set(CONAN_BIN_DIRS_BZIP2 "C:/Users/sanha/.conan/data/bzip2/1.0.8/_/_/package/53b5fd22ba061620078deefdae9a437c5f693201/bin")
 set(CONAN_RES_DIRS_BZIP2 )
 set(CONAN_SRC_DIRS_BZIP2 )
-set(CONAN_BUILD_DIRS_BZIP2 "C:/Users/adopten/.conan/data/bzip2/1.0.8/_/_/package/d74f69022acf854c1ce6f27efa07ccbb6504e4b1/")
+set(CONAN_BUILD_DIRS_BZIP2 "C:/Users/sanha/.conan/data/bzip2/1.0.8/_/_/package/53b5fd22ba061620078deefdae9a437c5f693201/")
 set(CONAN_FRAMEWORK_DIRS_BZIP2 )
 set(CONAN_LIBS_BZIP2 bz2)
 set(CONAN_PKG_LIBS_BZIP2 bz2)
@@ -162,9 +162,9 @@ set(CONAN_PACKAGE_VERSION None)
 
 set(CONAN_SETTINGS_ARCH "x86_64")
 set(CONAN_SETTINGS_ARCH_BUILD "x86_64")
-set(CONAN_SETTINGS_BUILD_TYPE "Debug")
+set(CONAN_SETTINGS_BUILD_TYPE "Release")
 set(CONAN_SETTINGS_COMPILER "Visual Studio")
-set(CONAN_SETTINGS_COMPILER_RUNTIME "MDd")
+set(CONAN_SETTINGS_COMPILER_RUNTIME "MD")
 set(CONAN_SETTINGS_COMPILER_VERSION "17")
 set(CONAN_SETTINGS_OS "Windows")
 set(CONAN_SETTINGS_OS_BUILD "Windows")
@@ -177,13 +177,13 @@ set(CONAN_CMD_SHARED_LINKER_FLAGS ${CONAN_SHARED_LINKER_FLAGS})
 set(CONAN_CMD_C_FLAGS ${CONAN_C_FLAGS})
 # Defining accumulated conan variables for all deps
 
-set(CONAN_INCLUDE_DIRS "C:/.conan/a0be29/1/include"
-			"C:/Users/adopten/.conan/data/zlib/1.3.1/_/_/package/164640aad040835ac89882393a96d89200694f04/include"
-			"C:/Users/adopten/.conan/data/bzip2/1.0.8/_/_/package/d74f69022acf854c1ce6f27efa07ccbb6504e4b1/include" ${CONAN_INCLUDE_DIRS})
-set(CONAN_LIB_DIRS "C:/.conan/a0be29/1/lib"
-			"C:/Users/adopten/.conan/data/zlib/1.3.1/_/_/package/164640aad040835ac89882393a96d89200694f04/lib"
-			"C:/Users/adopten/.conan/data/bzip2/1.0.8/_/_/package/d74f69022acf854c1ce6f27efa07ccbb6504e4b1/lib" ${CONAN_LIB_DIRS})
-set(CONAN_BIN_DIRS "C:/Users/adopten/.conan/data/bzip2/1.0.8/_/_/package/d74f69022acf854c1ce6f27efa07ccbb6504e4b1/bin" ${CONAN_BIN_DIRS})
+set(CONAN_INCLUDE_DIRS "C:/.conan/f84aa3/1/include"
+			"C:/Users/sanha/.conan/data/zlib/1.3.1/_/_/package/5a61a86bb3e07ce4262c80e1510f9c05e9b6d48b/include"
+			"C:/Users/sanha/.conan/data/bzip2/1.0.8/_/_/package/53b5fd22ba061620078deefdae9a437c5f693201/include" ${CONAN_INCLUDE_DIRS})
+set(CONAN_LIB_DIRS "C:/.conan/f84aa3/1/lib"
+			"C:/Users/sanha/.conan/data/zlib/1.3.1/_/_/package/5a61a86bb3e07ce4262c80e1510f9c05e9b6d48b/lib"
+			"C:/Users/sanha/.conan/data/bzip2/1.0.8/_/_/package/53b5fd22ba061620078deefdae9a437c5f693201/lib" ${CONAN_LIB_DIRS})
+set(CONAN_BIN_DIRS "C:/Users/sanha/.conan/data/bzip2/1.0.8/_/_/package/53b5fd22ba061620078deefdae9a437c5f693201/bin" ${CONAN_BIN_DIRS})
 set(CONAN_RES_DIRS  ${CONAN_RES_DIRS})
 set(CONAN_FRAMEWORK_DIRS  ${CONAN_FRAMEWORK_DIRS})
 set(CONAN_LIBS libboost_contract libboost_coroutine libboost_fiber_numa libboost_fiber libboost_context libboost_graph libboost_iostreams libboost_json libboost_locale libboost_log_setup libboost_log libboost_math_c99 libboost_math_c99f libboost_math_c99l libboost_math_tr1 libboost_math_tr1f libboost_math_tr1l libboost_nowide libboost_program_options libboost_random libboost_regex libboost_stacktrace_noop libboost_stacktrace_windbg libboost_stacktrace_windbg_cached libboost_timer libboost_type_erasure libboost_thread libboost_chrono libboost_container libboost_date_time libboost_unit_test_framework libboost_prg_exec_monitor libboost_test_exec_monitor libboost_exception libboost_wave libboost_filesystem libboost_atomic libboost_wserialization libboost_serialization zlib bz2 ${CONAN_LIBS})
@@ -196,8 +196,8 @@ set(CONAN_DEFINES "-DBOOST_STACKTRACE_USE_NOOP"
 			"-DBOOST_STACKTRACE_USE_WINDBG_CACHED"
 			"-DBOOST_ALL_NO_LIB" ${CONAN_DEFINES})
 set(CONAN_BUILD_MODULES_PATHS  ${CONAN_BUILD_MODULES_PATHS})
-set(CONAN_CMAKE_MODULE_PATH "C:/Users/adopten/.conan/data/zlib/1.3.1/_/_/package/164640aad040835ac89882393a96d89200694f04/"
-			"C:/Users/adopten/.conan/data/bzip2/1.0.8/_/_/package/d74f69022acf854c1ce6f27efa07ccbb6504e4b1/" ${CONAN_CMAKE_MODULE_PATH})
+set(CONAN_CMAKE_MODULE_PATH "C:/Users/sanha/.conan/data/zlib/1.3.1/_/_/package/5a61a86bb3e07ce4262c80e1510f9c05e9b6d48b/"
+			"C:/Users/sanha/.conan/data/bzip2/1.0.8/_/_/package/53b5fd22ba061620078deefdae9a437c5f693201/" ${CONAN_CMAKE_MODULE_PATH})
 
 set(CONAN_CXX_FLAGS " ${CONAN_CXX_FLAGS}")
 set(CONAN_SHARED_LINKER_FLAGS " ${CONAN_SHARED_LINKER_FLAGS}")

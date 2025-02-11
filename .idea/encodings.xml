@@ -3,5 +3,10 @@
   <component name="Encoding">
     <file url="file://$PROJECT_DIR$/CMakeLists.txt" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/conanfile.txt" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main.cpp" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/turing_machine.cpp" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/turing_machine.h" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/user_interface.cpp" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/user_interface.h" charset="UTF-8" />
   </component>
 </project>
