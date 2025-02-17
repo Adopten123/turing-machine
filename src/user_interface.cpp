@@ -37,6 +37,8 @@ void user_interface::execute_commands() {
             machine_ptr_->set_current(cmd[1]);
         else if (cmd == "&"s)
             machine_ptr_->set_buffer();
+        else if (cmd == "?")
+            std::cerr << machine_ptr_->get_buffer() << std::endl;
 //        std::cerr << cmd << ": "s;
 //        machine_ptr_->show();
     }
